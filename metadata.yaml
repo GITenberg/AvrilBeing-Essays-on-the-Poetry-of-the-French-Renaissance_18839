@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18839#AvrilBeing-Essays-on-the-Poetry-of-the-French-Renaissance
 gutenberg_issued: '2006-07-16'
 gutenberg_type: Text
 identifiers:
