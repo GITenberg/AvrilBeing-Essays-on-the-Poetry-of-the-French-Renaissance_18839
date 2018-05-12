@@ -1,0 +1,31 @@
+_repo: AvrilBeing-Essays-on-the-Poetry-of-the-French-Renaissance_18839
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+description: ''
+gutenberg_issued: '2006-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Renaissance -- France'
+- !lcsh 'French poetry -- 16th century -- History and criticism'
+tableOfContents: Charles of Orleans -- Villon -- Marot -- Ronsard -- Du Bellay --
+  Malherbe.
+title: 'Avril: Being Essays on the Poetry of the French Renaissance'
+url: http://www.gutenberg.org/ebooks/18839
